@@ -1,8 +1,8 @@
 const options = {
     method: 'GET',
     headers: {
-        'X-RapidAPI-Key': 'Introduce aquí tu API-Key',
-        'X-RapidAPI-Host': 'Introduce aquí tu API-Host'
+        'X-RapidAPI-Key': '' ,//Introduce aquí tu API-Key
+        'X-RapidAPI-Host': '' //Introduce aquí tu API-Host
     }
 };
 
